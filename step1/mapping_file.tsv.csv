@@ -1,0 +1,40 @@
+SampleID	BarcodeSequence	LinkerPrimerSequence	Year	Month	Day	TimeOfSample	TubeStation	Line	Zone	Direction	SurfaceSwabbed	SampleSiteDescription	Whocollected	EntryExitFigures	SurfaceAppearancePostSwabbing
+515rcbc156	ATATGTTCTCAA	N	2018	10	22	15:12	Bank	Waterloo_and_City	1	West	Oyster Screen	Smudged but not too dirty	Hermione	57.5	no change
+515rcbc157	ATGTGCTGCTCG	N	2018	10	22	15:05	Bank	Waterloo_and_City	1	West	Escalator	Very dirty	Hermione	57.5	no change
+515rcbc158	CCGATAAAGGTT	N	2018	10	22	15:19	Bank	Waterloo_and_City	1	West	Carriage Handrail	Appeared clean	Hermione	57.5	no change
+515rcbc159	CAGGAACCAGGA	N	2018	10	22	15:45	Tottenham Hale	Victoria	3	South	Oyster Screen	dirty	Geoffrey	12.47	no change
+515rcbc160	GCATAAACGACT	N	2018	10	22	16:00	Tottenham Hale	Victoria	3	South	Escalator	dirty	Geoffrey	12.47	no change
+515rcbc161	ATCGTAGTGGTC	N	2018	10	22	16:05	Tottenham Hale	Victoria	3	South	Carriage Handrail	sticky	Geoffrey	12.47	no change
+515rcbc162	ACTAAAGCAAAC	N	2018	10	22	15:25	Paddington	District	1	West	Oyster Screen	Dirty, sticky	Mayla	36.6	no change
+515rcbc163	TAGGAACTCACC	N	2018	10	22	15:23	Paddington	District	1	West	Escalator	Very dirty	Mayla	36.6	no change
+515rcbc164	GTCCGTCCTGGT	N	2018	10	22	15:21	Paddington	District	1	West	Carriage Handrail	Appears clean on the outside	Mayla	36.6	no change
+515rcbc165	CGAGGCGAGTCA	N	2018	10	22	16:30	Heathrow Terminal 2,3	Picadilly	6	West	Oyster Screen	Dirty, sticky	Anna	7.81	no change
+515rcbc166	TTCCAATACTCA	N	2018	10	22	16:33	Heathrow Terminal 2,3	Picadilly	6	West	Escalator	Very dirty	Anna	7.81	no change
+515rcbc167	AACTCAATAGCG	N	2018	10	22	16:05	Heathrow Terminal 2,3	Picadilly	6	West	Carriage Handrail	Appears clean on the outside	Anna	7.81	no change
+515rcbc168	TCAGACCAACTG	N	2018	10	22	15:16	Kentish Town	Northern	2	South Kenninton via Charing X	Oyster Screen	Dirty/Warm	Natalya	8.35	no change
+515rcbc169	CCACGAGCAGGC	N	2018	10	22	15:10	Kentish Town	Northern	2	South Kenninton via Charing X	Escalator, leaving platform	Very dirty	Natalya	8.35	no change
+515rcbc170	GCGTGCCCGGCC	N	2018	10	22	15:22	Kentish Town	Northern	2	South Kenninton via Charing X	Carriage Handrail	Clean	Natalya	8.35	no change
+515rcbc171	CAAAGGAGCCCG	N	2018	10	22	14.53	Euston Square	Hammersmith and City	1	East	Oyster Screen	Dirty	Anusha	14.13	less dirty
+515rcbc172	TGCGGCGTCAGG	N	2018	10	22	15.02	Euston Square	Hammersmith and City	1	East	staircase, as no escalator	Not too dirty	Anusha	14.13	no change
+515rcbc173	CGCTGTGGATTA	N	2018	10	22	15.07	Euston Square	Hammersmith and City	1	East	Carriage Handrail	Appeared clean	Anusha	14.13	no change
+515rcbc174	CTTGCTCATAAT	N	2018	10	22	15:40	Kings Cross St Pancras	Circle	1	n/a	Oyster Screen	Slightly dirty	Iana	97.92	no change
+515rcbc175	ACGACAACGGGC	N	2018	10	22	14:43	Regents Park	Bakerloo	1	Southbound	staircase handrail	Clean, swab was brown	Yasmeen	3.61	no change
+515rcbc176	CTAGCGTGCGTT	N	2018	10	22	15:05	Waterloo	Jubilee	1	East	Oyster screen	dirty, sooty	Lauren	91.27	no change
+515rcbc177	TAGTCTAAGGGT	N	2018	10	22	15:16	Waterloo	Jubilee	1	East	Escalator	a bit sticky	Lauren	91.27	no change
+515rcbc178	GTTTGAAACACG	N	2018	10	22	15:10	Waterloo	Jubilee	1	East	Carriage handrail	plenty of fingerprints but otherwise clean	Lauren	91.27	no change
+515rcbc179	ACCTCAGTCAAG	N	2018	10	22	15:35	Kings Cross St Pancras	Circle	1	n/a	Escalator	Dirty, swab was brown	Iana	97.92	no change
+515rcbc180	TCATTAGCGTGG	N	2018	10	22	15:09	Holborn	Piccadilly	1	East	Oyster screen	Not too dirty	Sam	32.54	no change
+515rcbc181	CGCCGTACTTGC	N	2018	10	22	15:06	Holborn	Piccadilly	1	East	Escalator	Very dirty, swab was brown	Sam	32.54	no change
+515rcbc182	TAAACCTGGACA	N	2018	10	22	15:12	Holborn	Piccadilly	1	East	Carriage handrail	Appeared clean	Sam	32.54	no change
+515rcbc183	CCAACCCAGATC	N	2018	10	22	14:47	Regents Park	Bakerloo	1	Southbound	Carriage handrail	dirty, swap was brown	Yasmeen	3.61	no change
+515rcbc184	TTAAGTTAAGTT	N	2018	10	22	15:41	Chiswick Park	District	3	Eastbound	Oyster screen	dirty, swap was brown	Ava	2.25	no change
+515rcbc185	AGCCGCGGGTCC	N	2018	10	22	15:43	Chiswick Park	District	3	Eastbound	Staircase handrail	Appeared clean, swab looked fairly clean	Ava	2.25	no change
+515rcbc186	GGTAGTTCATAG	N	2018	10	22	15:49	Chiswick Park	District	3	Eastbound	Carriage handrail	Appeared clean, swab was a bit dusty	Ava	2.25	no change
+515rcbc187	CGATGAATATCG	N	2018	10	22	14:56	Tottenham Court Road	Central	1	Eastbound	Oyster screen	dirty, swap was brown, screen was a bit sticky, plenty of fingerprints	Xinyi	41.33	less sticky, clearer, fingerprints removed
+515rcbc188	GTTCTAAGGTGA	N	2018	10	22	16:55	Tottenham Court Road	Central	1	Eastbound	Escalator	dirty, swap was brown	Xinyi	41.33	less dirty, some dirts scraped off
+515rcbc189	ATGACTAAGATG	N	2018	10	22	16:44	Tottenham Court Road	Central	1	Eastbound	Carriage handrail	relatively clean, swab was bright	Xinyi	41.33	not much change, still clean
+515rcbc190	TACAGCGCATAC	N	2018	10	22	15:49	Kings Cross St Pancras	Circle	1	Westbound	Carriage handrail	Appeared clean	Iana	97.92	no change
+515rcbc191	TGACAGAATCCA	N	2018	10	22	14:40	Regents Park	Bakerloo	1	Southbound	Oyster screen	Brown, dirty	Yasmeen	3.61	no change
+515rcbc192	CCTCGCATGACC	N	2018	10	22	16:31	Baker Street	Metropolitan	1	n/a	Oyster screen	Appeared Clean	Ash	28.78	no change
+515rcbc193	GGCGTAACGGCA	N	2018	10	22	16:35	Baker Street	Metropolitan	1	n/a	Escalator Handrail	Fairly Dirty	Ash	28.78	no change
+515rcbc194	GCGAGGAAGTCC	N	2018	10	22	16:41	Baker Street	Metropolitan	1	Southbound	Carriage Handrail	Appeared Clean	Ash	28.78	no change
